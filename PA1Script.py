@@ -1,14 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # CSE474/574 - Programming Assignment 1
-# 
-# For grading, we will execute the submitted notebook as follows:
-# 
-# ```shell
-# jupyter nbconvert --to python PA1Script.ipynb
-# python PA1Script.py
-# ```
+
 
 # In[ ]:
 
